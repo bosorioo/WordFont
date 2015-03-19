@@ -1,0 +1,16 @@
+Enter a string (max. of 20 letters) using the following characters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z] -> Example  
+Enter the pixel character you want to use to draw: @  
+Enter the font size (8-12): 9  
+Bold? (0 = No, 1 = Yes, 2 = Uppercase characters will be bolded and lowercase won't): 2  
+
+@@@@@@@@   @       @   @@@@@@@   @       @  @@@@@@@@   @          @@@@@@@@ 
+@@@@@@@@    @     @   @       @  @@     @@  @       @  @          @        
+@@           @   @    @       @  @ @   @ @  @       @  @          @        
+@@@@@@@@      @ @     @       @  @  @ @  @  @       @  @          @        
+@@@@@@@@       @      @@@@@@@@@  @   @   @  @@@@@@@@   @          @@@@@@@@ 
+@@            @ @     @       @  @       @  @          @          @        
+@@           @   @    @       @  @       @  @          @          @        
+@@@@@@@@@   @     @   @       @  @       @  @          @          @        
+@@@@@@@@@  @       @  @       @  @       @  @          @@@@@@@@@  @@@@@@@@@
+
+Press enter to exit...
